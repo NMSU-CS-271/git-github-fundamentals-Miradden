@@ -1,4 +1,26 @@
-# :wave: The Basics of GitHub 
+# What I learned from this README
+
+## - Git is a standalone software tool for version control, GitHub is a website that makes Git easier to use by giving it an interface.
+
+## - Repositories are your workspace/project folder where all your code lives that exists in the cloud
+### -- Repositories also have README's that explain what your code does, how to use it, features it has, etc.
+
+## - Cloning is when you download a copy of your Git repository onto your local machine
+
+## - A commit is a checkpoint that you want to save of your code.
+
+## - After you have one or more commits, you can 'push' your commits, which basically uploads all of your latest code to the remote git repository
+
+## - A branch is a working copy of your repository that gives you a place to play with new ideas, fix bugs, etc. in a place that is contained. You can 'merge' the branch into your main branch whenever you wish.
+
+## - A fork is your own copy of someone elses code that you can do whatever you want with without modifying the original code.
+
+## - You can use a pull request to tell others about changes you want to make and ask for feedback. You can assign reviewers so that you can specify whose feedback you want
+ 
+## Issues are something on GitHub that developers and users can use to track enahncements, bugs, or tasks for your code
+
+# ~~~
+# (Begin original README) :wave: The Basics of GitHub 
 
 ## 🤓 Assignment overview and learning outcomes 
 
